@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ishan Shehara
-- 👀 I’m interested in Machine Learning and AI technologies 
-- 🌱 I’m an undergraduate at Sri Lanka Institue of Information Technologies (BSc. Information Technology)
-- I am an undergraduate at the University of Colombo Also (BSc. Electronocs and Automation)
+- 👋 Hello, I am Ishan Shehara Liyanage
+- 👀 I am interested in Machine Learning and AI technologies 
+- 🌱 I am an undergraduate at Sri Lanka Institue of Information Technologies (BSc. Information Technology)
+- 🌱 I am an undergraduate at the University of Colombo Also (BSc. Electronocs and Automation)
 
 
 <!---
