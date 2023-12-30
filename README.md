@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and AI technologies 
 - 🌱 I’m an undergraduate at Sri Lanka Institue of Information Technologies (BSc. Information Technology)
 - I am an undergraduate at the University of Colombo Also (BSc. Electronocs and Automation)
-- 
 
 
 <!---
